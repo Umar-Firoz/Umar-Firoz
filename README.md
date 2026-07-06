@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1040,100:6e40c9&height=220&section=header&text=Umar%20Firoz&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=UX/UI%20Designer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descColor=c9b1ff&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1040,100:2d1b69&height=220&section=header&text=Umar%20Firoz&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=UX/UI%20Designer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descColor=c9b1ff&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -98,13 +98,17 @@ fun_fact: "I think in components and dream in gradients 🎨"
 ## 🔥 &nbsp;My Stats :
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Umar-Firoz&theme=dark&hide_border=true&background=1a1b27&stroke=e8a317&ring=e8a317&fire=e8a317&currStreakLabel=e8a317&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b8b" width="700"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Umar-Firoz&theme=highcontrast&hide_border=true&border_radius=10&ring=e8a317&fire=e8a317&currStreakLabel=e8a317" width="700"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Firoz&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=e8a317&text_color=ffffff" width="400"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Firoz&layout=compact&theme=highcontrast&hide_border=true&border_radius=10&title_color=e8a317" width="400"/>
+  </a>
 </div>
 
 <br/>
@@ -139,4 +143,4 @@ fun_fact: "I think in components and dream in gradients 🎨"
 </div>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1040,100:6e40c9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1040,100:2d1b69&height=120&section=footer" width="100%"/>
