@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Umar%20Firoz&fontSize=60&fontColor=e6edf3&fontAlignY=35&desc=UX/UI%20Designer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1040,100:6e40c9&height=220&section=header&text=Umar%20Firoz&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=UX/UI%20Designer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descColor=c9b1ff&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -35,7 +35,7 @@ fun_fact: "I think in components and dream in gradients 🎨"
 
 <table>
   <tr>
-    <td align="center" width="150"><b>Frontend</b></td>
+    <td align="center" width="150"><b>Frontend &<br/>Frameworks</b></td>
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
@@ -43,27 +43,22 @@ fun_fact: "I think in components and dream in gradients 🎨"
     </td>
   </tr>
   <tr>
-    <td align="center" width="150"><b>Backend</b></td>
-    <td style="display: flex; gap: 10px; align-items: center;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring" />
-      </a>
-      &nbsp;&nbsp;<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><b>Database</b></td>
+    <td align="center" width="150"><b>Backend &<br/>Database</b></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=redis,postgres" />
+        <img src="https://skillicons.dev/icons?i=spring,redis,postgres,mongodb" />
       </a>
+      <br/>
+      <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+      <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
     </td>
   </tr>
   <tr>
     <td align="center" width="150"><b>Languages</b></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,c,py,js,ts" />
+        <img src="https://skillicons.dev/icons?i=java,c,py,js" />
       </a>
     </td>
   </tr>
@@ -79,9 +74,9 @@ fun_fact: "I think in components and dream in gradients 🎨"
     <td align="center" width="150"><b>Design</b></td>
     <td>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a>
-      <img src="https://cdn.worldvectorlogo.com/logos/rive.svg" height="48" alt="Rive" />
-      <img src="https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60c5430389e1b827e0e3a48c_protopie-icon.svg" height="48" alt="ProtoPie" />
-      <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" height="48" alt="Miro" />
+      <img src="https://img.shields.io/badge/Rive-1D1D1D?style=for-the-badge&logo=rive&logoColor=white" alt="Rive" />
+      <img src="https://img.shields.io/badge/ProtoPie-FF6155?style=for-the-badge&logoColor=white" alt="ProtoPie" />
+      <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050036" alt="Miro" />
     </td>
   </tr>
   <tr>
@@ -99,26 +94,17 @@ fun_fact: "I think in components and dream in gradients 🎨"
 
 <br/>
 
-<!-- GitHub Stats Section -->
-## 📊 &nbsp;GitHub Analytics
+<!-- Stats Section -->
+## 🔥 &nbsp;My Stats :
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Umar-Firoz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Firoz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8b949e" />
+  <img src="https://streak-stats.demolab.com/?user=Umar-Firoz&theme=dark&hide_border=true&background=1a1b27&stroke=e8a317&ring=e8a317&fire=e8a317&currStreakLabel=e8a317&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b8b" width="700"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umar-Firoz&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="700"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umar-Firoz&bg_color=0d1117&color=8b949e&line=6e40c9&point=e6edf3&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Firoz&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=e8a317&text_color=ffffff" width="400"/>
 </div>
 
 <br/>
@@ -128,12 +114,9 @@ fun_fact: "I think in components and dream in gradients 🎨"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/YOUR-DRIBBBLE)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/YOUR-BEHANCE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umarfiroz.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-firoz-878a05325)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarfiroz0404@gmail.com)
 
 </div>
 
@@ -156,4 +139,4 @@ fun_fact: "I think in components and dream in gradients 🎨"
 </div>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1040,100:6e40c9&height=120&section=footer" width="100%"/>
