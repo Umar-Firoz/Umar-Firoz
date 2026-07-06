@@ -15,15 +15,8 @@
 <!-- About Section -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-```yaml
-name: Umar Firoz
-located_in: 🌍
-roles:
-  - UX/UI Designer
-  - Full Stack Developer
-currently_learning: "Deepening my craft across design & development"
-fun_fact: "I think in components and dream in gradients 🎨"
-```
+Hey, I'm **Umar Firoz** 👋 — a **UX/UI Designer** and **Full Stack Developer**.
+I love crafting clean interfaces and building scalable backend systems.
 
 <br/>
 
@@ -37,17 +30,21 @@ fun_fact: "I think in components and dream in gradients 🎨"
   <tr>
     <td align="center" width="150"><b>Frontend &<br/>Frameworks</b></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
-      </a>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     </td>
   </tr>
   <tr>
     <td align="center" width="150"><b>Backend &<br/>Database</b></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,redis,postgres,mongodb" />
-      </a>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       <br/>
       <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
       <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
@@ -57,23 +54,25 @@ fun_fact: "I think in components and dream in gradients 🎨"
   <tr>
     <td align="center" width="150"><b>Languages</b></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,c,py,js" />
-      </a>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
   </tr>
   <tr>
     <td align="center" width="150"><b>Cloud & DevOps</b></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=supabase,docker,git,linux" />
-      </a>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
   <tr>
     <td align="center" width="150"><b>Design</b></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
       <img src="https://img.shields.io/badge/Rive-1D1D1D?style=for-the-badge&logo=rive&logoColor=white" alt="Rive" />
       <img src="https://img.shields.io/badge/ProtoPie-FF6155?style=for-the-badge&logoColor=white" alt="ProtoPie" />
       <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050036" alt="Miro" />
@@ -82,10 +81,9 @@ fun_fact: "I think in components and dream in gradients 🎨"
   <tr>
     <td align="center" width="150"><b>Hosting</b></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-      </a>
-      &nbsp;&nbsp;<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
     </td>
   </tr>
 </table>
