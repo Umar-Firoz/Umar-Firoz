@@ -13,15 +13,15 @@
 <br/>
 
 <!-- About Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+About Me
 
-Hey, I'm **Umar Firoz** 👋 — a **UX/UI Designer** and **Full Stack Developer**.
+Hey, I'm **Umar Firoz**  a **UX/UI Designer** and **Full Stack Developer**.
 I love crafting clean interfaces and building scalable backend systems.
 
 <br/>
 
 <!-- Tech Stack Section -->
-## 🛠️ &nbsp;Tech Stack
+Tech Stack
 
 <div align="center">
 <br/>
@@ -93,7 +93,7 @@ I love crafting clean interfaces and building scalable backend systems.
 <br/>
 
 <!-- Stats Section -->
-## 🔥 &nbsp;My Stats :
+My Stats :
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -103,7 +103,7 @@ I love crafting clean interfaces and building scalable backend systems.
 
 
 <!-- Connect Section -->
-## 🤝 &nbsp;Let's Connect
+Let's Connect
 
 <div align="center">
 
