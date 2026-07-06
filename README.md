@@ -103,15 +103,6 @@ fun_fact: "I think in components and dream in gradients 🎨"
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Firoz&layout=compact&theme=highcontrast&hide_border=true&border_radius=10&title_color=e8a317" width="400"/>
-  </a>
-</div>
-
-<br/>
 
 <!-- Connect Section -->
 ## 🤝 &nbsp;Let's Connect
